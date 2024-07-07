@@ -2,8 +2,8 @@
 ---
 
 # Proyecto de Películas
-Películas.mp4
 
+https://youtu.be/usRPJw4rcBs
 ## Introducción
 
 Este proyecto es una aplicación web diseñada para gestionar una base de datos de películas. Los usuarios pueden ver, agregar, editar y eliminar entradas de películas. El proyecto fue desarrollado como Trabajo Final para CAC, utilizando PHP 8 y MySQL, y la interfaz front-end está construida con HTML y CSS.
